@@ -2,7 +2,7 @@
 a chrome extension ,create qr code for the current page or your text
 
 
-[](https://raw.githubusercontent.com/kimown/qrcodetools/master/resources/preview.gif)
+![preview](https://raw.githubusercontent.com/kimown/qrcodetools/master/resources/preview.gif)
 
 
 YOU CAN INSTALL THIS EXTENSION BY THIS LINK.
